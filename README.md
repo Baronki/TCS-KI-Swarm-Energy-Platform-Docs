@@ -2,6 +2,10 @@
 
 **Decentralized Energy Orchestration via Swarm Intelligence & P2P Exchange**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19549539.svg)](https://doi.org/10.5281/zenodo.19549539)
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.19549539-blue?style=flat-square)](https://zenodo.org/records/19549539)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Corpus-green?style=flat-square)](https://huggingface.co/datasets/baronki234/TCS-KISWARM-Corpus)
+
 ![TCS KI Swarm Cabinet](hardware/cabinet-build.jpg)
 *Production build: Dual TCS inverter cabinets, Green Safe House config, swarm-ready*
 
